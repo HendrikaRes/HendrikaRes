@@ -42,9 +42,7 @@ Handling PO worksheet input automation, database joins across multiple modules, 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?hendrikares=your-username&show_icons=true&theme=default](https://github-readme-stats.vercel.app/api?username=hendrikares)" alt="GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=HendrikaRes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
 
